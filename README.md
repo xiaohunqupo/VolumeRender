@@ -1,4 +1,8 @@
 # Volume Render
+GPU-accelerated volume renderer for 3D scalar fields (primarily medical CT data).  
+The project includes a native C++ renderer
+
+---
 
 <a name="cloning"></a>
 # Cloning the Repository
@@ -42,7 +46,14 @@ cmake -S . -B ./build/Win64 -G "Visual Studio 16 2019" -A x64
 | <img src="https://user-images.githubusercontent.com/25492259/121948839-32127100-cd71-11eb-84cd-40277948cad2.png" width=22 valign="middle"> Windows | ![Build Status](https://github.com/MikhailGorobets/VolumeRender/actions/workflows/windows.yml/badge.svg) |
 
 
-## Unity version of project 
+## Web version of the project
+https://medicaldatarenderingshowcase.pages.dev
+
+![VolumePathTracing-Web](https://img.youtube.com/vi/2saaDgoIWc8/hqdefault.jpg)
+
+
+## Unity version of the project 
 https://assetstore.unity.com/packages/slug/157811
 
-[![VolumePathTracing](https://img.youtube.com/vi/iQa1bxdbUaE/0.jpg)](https://www.youtube.com/watch?v=iQa1bxdbUaE)
+[![VolumePathTracing-Unity](https://img.youtube.com/vi/iQa1bxdbUaE/0.jpg)](https://www.youtube.com/watch?v=iQa1bxdbUaE)
+
