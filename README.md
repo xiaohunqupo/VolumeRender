@@ -47,7 +47,7 @@ cmake -S . -B ./build/Win64 -G "Visual Studio 16 2019" -A x64
 
 
 ## Web version of the project
-https://medicaldatarenderingshowcase.pages.dev
+https://grenzwert.net/
 
 ![VolumePathTracing-Web](https://img.youtube.com/vi/2saaDgoIWc8/hqdefault.jpg)
 
